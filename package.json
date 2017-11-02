@@ -1,0 +1,14 @@
+{
+  "name": "winwhich",
+  "version": "1.0.0",
+  "description": "which-like command-line tool for windows",
+  "license": "MIT",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "valentin.huber@msg.group",
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
